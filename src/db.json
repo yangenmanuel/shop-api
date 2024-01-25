@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Earbuds",
+      "description": "Experience high-quality sound and convenience with these sleek wireless earbuds. Perfect for on-the-go music enthusiasts."
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Tracker",
+      "description": "Track your daily activities, monitor your heart rate, and achieve your fitness goals with this advanced smart fitness tracker."
+    },
+    {
+      "id": 3,
+      "name": "Coffee Maker with Built-in Grinder",
+      "description": "Start your day right with freshly ground coffee. This coffee maker features a built-in grinder for a rich and aromatic morning brew."
+    }
+  ]
+}
